@@ -41,6 +41,7 @@ nav ul li a {
 }
 
 img{
+    visibility: hidden;
     max-width: 100px;
    }
 .btn{
